@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="bt5">login</string>
+    <string name="txt1">I\'m a card.</string>
+    <string name="txt">Happy birthday</string>
+    <string name="txt0">お诞生日おめでとございます</string>
+    <string name="txt2">Bon Anniversaire</string>
+    <string name="txt3">Herzlichen Glückwunsch zum Geburtstag</string>
+    <string name="txt4">Feliz cumpleaños</string>
+    <string name="txt6">Maligayang Kaarawan</string>
+    <string name="txt7">Selamat Ulang Tahun</string>
+    <string name="txt8">WSZYSTKIEGO NAJLEPSZEGO</string>
+    <string name="txt9">Van Harte Gefeliciteerd met jeverj aardag,</string>
+    <string name="txt10">VSE NAJBOLJSE!</string>
+    <string name="txt11">С днем рождения!</string>
+    <string name="txt12">feliz aniversario</string>
+    <string name="txt13">buon compleanno</string>
+    <string name="bt9">Birthday Song</string>
+    <string name="bt10">Eat Cake</string>
+    <string name="txt16">生日快乐</string>
+</resources>
